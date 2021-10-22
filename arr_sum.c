@@ -15,4 +15,5 @@ int main()
 {
 int a[5]={1,2,3,4,5};
 printf("%d",fun(a,5));
+  return 0
 }
