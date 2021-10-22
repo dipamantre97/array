@@ -1,3 +1,4 @@
+//addition of array elements
 #include<stdio.h>
 int fun(int v[],int n)
 {
